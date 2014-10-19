@@ -1,4 +1,7 @@
 Project
 =======
 
-Project mata kuliah Pemrograman Internet
+Project Bimbingan Skripsi Oline mata kuliah Pemrograman Internet
+Nama 		: Muhamad Farikhin
+NIM 		: A11.2013.07504
+Kelompok 	: A11.4506 
